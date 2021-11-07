@@ -1,6 +1,8 @@
 # BMI-Calculator
 BMI - Body Fat Index Mass Calculator ( Begginer)
 
+CODE |
+     
 height = input("enter your height in m: ")
 weight = input("enter your weight in kg: ")
 
